@@ -1,1 +1,1 @@
-# oracle-ebs-development-guidelines
+# Oracle E-Business Suite Development Guidelines
